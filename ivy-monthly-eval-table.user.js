@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         IVY Monthly Eval Autotable Creator Script
 // @namespace    http://tampermonkey.net
-// @version      0.22
+// @version      0.3
 // @downloadURL  https://github.com/fishybanana/ivy-master/raw/main/ivy-monthly-eval-table.user.js
 // @description  "To any action there is always an opposite and equal reaction" - Newton . Basically this script will add the table for the text box area for pretty formatting.
 // @author       fishybanana
